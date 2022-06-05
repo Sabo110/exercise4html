@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+}
+main{
+    margin:auto;
+    padding:16px;
+    width:960px;
+    font-family: sans-serif;
+    background-color: #EEE;
+    font-size: 16px;
+}
+h1{
+    font-size: 48px;
+    color: #157D23;
+}
+h2{
+    font-size: 26px;
+    color: #157D23;
+}
+body{
+    background-color: #C1C3C1;
+}
+a{
+    color: #157D23;
+}
+a:hover{
+    color: #50B65D;
+}
